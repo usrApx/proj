@@ -1,3 +1,5 @@
 fun main(){
     println("Hello")
 }
+
+fun add(p1, p2) = p1 + p2
