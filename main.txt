@@ -1,2 +1,3 @@
-Editing main x7
- "Maiiin"  
+fun main(){
+    println(Hello)
+}
