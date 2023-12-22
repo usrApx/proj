@@ -4,3 +4,5 @@ fun main(){
 
 
 fun sum(a: Int, b: Int) = a + b
+
+fun del(a: Int, b: Int) = a - b
